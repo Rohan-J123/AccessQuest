@@ -1,4 +1,4 @@
-var cloudURL = "http://0.0.0.0:3000";
+var cloudURL = "https://www.learndigitalaccessibility.com/";
 var collectionName = "access-quest-games-users";
 var userID;
 var gameID;
